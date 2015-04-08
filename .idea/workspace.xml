@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a42a56c6-4907-4a3f-b3e6-21796497ca1b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/Gemfile" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/app/views/home/_header.html.erb" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/app/views/home/_header.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/app/views/home/about.html.erb" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/app/views/home/about.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/app/assets/stylesheets/bootstraply.css.scss" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/app/assets/stylesheets/bootstraply.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstraply.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstraply.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/app/assets/stylesheets/home.css.scss" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/app/assets/stylesheets/home.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/app/views/home/index.html.erb" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/app/views/home/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/tab0" afterPath="$PROJECT_DIR$/.c9/metadata/tab0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a42a56c6-4907-4a3f-b3e6-21796497ca1b" name="Default" comment="" />
     <ignored path="pinterested.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.c9/metadata/workspace/components/" />
@@ -690,16 +680,16 @@
       <workItem from="1428376837586" duration="718000" />
       <workItem from="1428379662110" duration="635000" />
       <workItem from="1428428919029" duration="593000" />
-      <workItem from="1428432293034" duration="7998000" />
+      <workItem from="1428432293034" duration="8250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10602000" />
+    <option name="totallyTimeSpent" value="10854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="769" y="0" width="1151" height="1040" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -709,7 +699,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4683258" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4683258" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2749771" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
