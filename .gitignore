@@ -10,6 +10,8 @@
 #Ignore .c9 (cloud 9 files)
 /.c9
 
+#Ignore
+/tmp
 # Ignore bundler config.
 /.bundle
 
