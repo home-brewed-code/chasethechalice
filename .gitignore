@@ -4,6 +4,12 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+#Ignore .idea
+/.idea
+
+#Ignore .c9 (cloud 9 files)
+/.c9
+
 # Ignore bundler config.
 /.bundle
 
