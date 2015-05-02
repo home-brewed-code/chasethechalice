@@ -13,7 +13,7 @@ gem 'bootstrap-sass', '~> 3.3.4'
 gem 'devise', '~> 3.4.1'
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'paperclip', '~> 4.2.1'
-gem 'aws-sdk', '~> 2.0.41'
+gem 'aws-sdk', '~> 1.60.2'
 
 group :development, :test do
     gem 'sqlite3'
