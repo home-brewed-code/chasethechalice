@@ -5,9 +5,12 @@
 .box {
   margin: 5px;
   width: 214px;
-  box-shadow: 10px 10px 15px #888888;
 }
 
 .box img{
   width: 100%;
+}
+
+.shadow{
+  box-shadow: 10px 10px 15px #888888;
 }
