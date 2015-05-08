@@ -6,7 +6,8 @@
       </div>
       <div class="panel-body">
         <%= @pin.description %><br/>
-        <%= @pin.user.name %><br/>
+        <hr />
+        <p>Created on <%= pin.created_at.strftime("%v") %> by <strong><%= pin.user.name if pin.user %></strong></p>
         <% if @pin.user == current_user %>
             <%= link_to 'Edit', edit_pin_path(@pin) %> |
         <% end %>
