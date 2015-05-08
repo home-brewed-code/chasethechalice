@@ -1,5 +1,5 @@
-<p>Welcome <%= @email %>!</p>
+<p>Welcome to Chase The Chalice, <%= @email %>!</p>
 
-<p>You can confirm your account email through the link below:</p>
+<p>By clicking the link below and confirming your email address, you'll be able to post pins to the pinboard.</p>
 
 <p><%= link_to 'Confirm my account', confirmation_url(@resource, confirmation_token: @token) %></p>
