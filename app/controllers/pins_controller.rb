@@ -12,8 +12,8 @@ class PinsController < ApplicationController
 
   def show
     #respond_with(@pin)
-    @next = Pin.where("id > ?", @pin.id).order("id ASC").first || Pin.first
-    @previous = Pin.where("id < ?", @pin.id).order("id DESC").first || Pin.last
+    @previous = Pin.where("id > ?", @pin.id).order("id ASC").first || Pin.first
+    @next = Pin.where("id < ?", @pin.id).order("id DESC").first || Pin.last
   end
 
   def new
