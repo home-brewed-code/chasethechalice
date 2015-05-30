@@ -12,6 +12,8 @@ class PinsController < ApplicationController
 
   def show
     #respond_with(@pin)
+    @next = Pin.where("id > ?", @pin.id).order("id ASC").first || Pin.first
+    @previous = Pin.where("id < ?", @pin.id).order("id DESC").first || Pin.last
   end
 
   def new
@@ -45,6 +47,14 @@ class PinsController < ApplicationController
   def destroy
     @pin.destroy
     redirect_to pins_url
+  end
+  
+  def next_pin
+   
+  end
+
+  def previous_pin
+    @pin.where("id < ?", self.id).order("id DESC").first || @pin.last
   end
 
   private
